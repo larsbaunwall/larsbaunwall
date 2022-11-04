@@ -2,7 +2,7 @@
 
 I am part dreamer, part realist. Overly optimistic, and a genuine pessimist. I value the beauty in imperfection and the perfection in beauty.
 
-I love most things tech, grew up in .NET, work on a mac, live in Denmark, and work for a most wonderful toy company.
+I love most things tech, grew up in .NET, work on a mac, live in Denmark, and work for a most wonderful toy company. 
 
 ### Projects 🌱
 
