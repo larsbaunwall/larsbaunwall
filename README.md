@@ -6,6 +6,8 @@ I love most things tech, grew up in .NET, work on a mac, live in Denmark, and wo
 
 ### Projects 🌱
 
+I recently built [Copilot Bridge](https://github.com/larsbaunwall/vscode-copilot-bridge) that breaks your Copilot free of VS code - enabling you to use it with your local tools. Check it out!
+
 Currently, I am playing around with [DomainLang](https://github.com/larsbaunwall/DomainLang), which aims to be DSL, model, architecture graph, and anything in between, in the Domain-Driven Design space.
 
 A couple of years ago, I did a small discovery project, diving a bit more into the electron stack, curious on how I might use web technology for cross-platform desktop apps. That was quite fun, and out of that work came [plodo](https://github.com/larsbaunwall/plodo), you should check that out too.
