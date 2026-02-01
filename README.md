@@ -1,18 +1,18 @@
-## Hi, I am Lars 👋
+## Hi there, I'm Lars 👋
 
 I am part dreamer, part realist. Overly optimistic, and a genuine pessimist. I value the beauty in imperfection and the perfection in beauty.
 
-I love most things tech, grew up in .NET, work on a mac, live in Denmark, and work for a most wonderful toy company. 
+I've been building software for years — grew up in the .NET ecosystem, now work on a Mac, and call Denmark home. These days, I'm helping shape the digital future at one of the largest banks in the Nordics. When I'm not doing that, I'm usually tinkering with side projects or exploring new ideas.
 
-### Projects 🌱
+### What I'm working on 🌱
 
-I recently built [Copilot Bridge](https://github.com/larsbaunwall/vscode-copilot-bridge) that breaks your Copilot free of VS code - enabling you to use it with your local tools. Check it out!
+**[DomainLang](https://github.com/DomainLang/DomainLang)** — My current passion project (when time allows). It's a DSL for Domain-Driven Design that bridges the gap between domain models, architecture diagrams, and living documentation.
 
-Currently, I am playing around with [DomainLang](https://github.com/larsbaunwall/DomainLang), which aims to be DSL, model, architecture graph, and anything in between, in the Domain-Driven Design space.
+**[Copilot Bridge](https://github.com/larsbaunwall/vscode-copilot-bridge)** — A VS Code extension I built that lets you use GitHub Copilot with your local tools. It's found a great community of users and continues to grow!
 
-A couple of years ago, I did a small discovery project, diving a bit more into the electron stack, curious on how I might use web technology for cross-platform desktop apps. That was quite fun, and out of that work came [plodo](https://github.com/larsbaunwall/plodo), you should check that out too.
+**[plodo](https://github.com/larsbaunwall/plodo)** — An earlier experiment where I explored Electron and cross-platform desktop development using web technologies. A fun learning journey.
 
-## A glimpse of my tech stack ⚡
+### Tech I enjoy working with ⚡
 
 ![cs](https://img.shields.io/badge/-C%23-blueviolet?style=for-the-badge&logo=csharp) 
 ![dotnet](https://img.shields.io/badge/.net-blueviolet?style=for-the-badge&logo=dotnet)
@@ -22,10 +22,9 @@ A couple of years ago, I did a small discovery project, diving a bit more into t
 ![vue](https://img.shields.io/badge/vue-green?style=for-the-badge&logo=vuedotjs&logoColor=34495E&color=41B883)
 ![azure](https://img.shields.io/badge/azure-blue?style=for-the-badge&logo=microsoftazure)
 
-## Connect 🤝
+### Let's connect 🤝
 
-Love to hear from you, find me on
+I'd love to hear from you — whether it's about code, ideas, or just to say hi.
 
 [![linkedin](https://img.shields.io/badge/linkedin-blue?style=for-the-badge&logo=linkedin)](https://dk.linkedin.com/in/larslb)
 [![medium](https://img.shields.io/badge/medium-black?style=for-the-badge&logo=medium)](https://medium.com/@larslb)
-[![devto](https://img.shields.io/badge/dev.to-black?style=for-the-badge&logo=devdotto)](https://dev.to/larsbaunwall)
