@@ -8,7 +8,7 @@ I've been building software for years — grew up in the .NET ecosystem, now wor
 
 **[DomainLang](https://domainlang.net)** — My current passion project (when time allows). It's a DSL for Domain-Driven Design that bridges the gap between domain models, architecture diagrams, and living documentation.
 
-**[Prompt Me!](https://larsbaunwall.github.io/promptme-ai/)** - A teleprompter that follows your voice rather than a timer. Paste in a script, press record, and it highlights the current word and scrolls as you speak — no foot pedal, no backend, no data leaving the browser.
+**[Prompt Me!](https://larsbaunwall.github.io/promptme-ai/)** — A teleprompter that follows your voice rather than a timer. Paste in a script, press record, and it highlights the current word and scrolls as you speak — no foot pedal, no backend, no data leaving the browser.
 
 **[Copilot Bridge](https://github.com/larsbaunwall/vscode-copilot-bridge)** — A VS Code extension I built that lets you use GitHub Copilot with your local tools. It's found a great community of users and continues to grow!
 
