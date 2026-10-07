@@ -4,6 +4,8 @@ I am part dreamer, part realist. Overly optimistic, and a genuine pessimist. I v
 
 I've been building software for years — grew up in the .NET ecosystem, now work on a Mac, and call Denmark home. These days, I'm helping shape the digital future at one of the largest banks in the Nordics. When I'm not doing that, I'm usually tinkering with side projects or exploring new ideas.
 
+Read my auto-generated on [larsbaunwall.github.io](https://larsbaunwall.github.io) 🎓
+
 ### What I'm working on 🌱
 
 **[DomainLang](https://domainlang.net)** — My current passion project (when time allows). It's a DSL for Domain-Driven Design that bridges the gap between domain models, architecture diagrams, and living documentation.
